@@ -1,0 +1,99 @@
+{
+    "intents":[
+        {
+           "tag":"greetings",
+           "patterns":["hello","hii","hey","wake up","maya","are you there ?"
+           ],
+           "responses":["hello sir","How are you sir.","Always for you Sir","yes sir","Here's You Assistant Sir."
+           ]
+        },
+        {
+            "tag":"Love",
+            "patterns":["Maya Love You","Maya Do you Love Me ","maya i love you","Love you","I Like You"
+            ],
+            "responses":["Love You To sir","Yes Sir, I Love You","Love You Too Sir","Love You Too",
+            "Ofcourse I Like you To Sir"
+            ]
+        },
+        {
+            "tag":"Health",
+            "patterns":["How are you","How you","are you fine?","are you alright ?"," is all fine ","how is your health?"
+            ],
+            "responses":["I am Good,Thanks for asking","I am Good.","I am Perfect sir.","Yes Sir",
+            "Iam Perfect and Active , Thanks For Asking Sir"
+            ]
+        },
+        {
+            "tag":"Bye",
+            "patterns":["bye","good bye","see you later","sleep","exit","Quit"
+            ],
+            "responses":["Bye.","I am Going.","Always for you Sir","It'll be Nice To Meet you Again","See you Later sir."
+            ]
+        },
+        {
+            "tag":"personal",
+            "patterns":["your name","what is your name","who are you","what are you"
+            ],
+            "responses":["Maya","I am Maya","Iam an Artifical Intellengence Assistant.","My name is Maya","Great Assistant."
+            ]
+        },
+        {
+            "tag":"invented",
+            "patterns":["Who Invented you","Who created you ","Who is Your Boss"
+            ],
+            "responses":["Iam Invented by Krish","Iam Created by Krish","my boss krish"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["What is Time","Maya what is time","time now","tell me time","time cheppu"
+            ],
+            "responses":["time"
+            ]
+        },
+        {
+            "tag":"date",
+            "patterns":["What is date","Maya what is date today","today date","tell me date","date cheppu"
+            ],
+            "responses":["date"
+            ]
+        },
+        {
+            "tag":"day",
+            "patterns":["What is day","Maya what is today","today ","tell me day","em rojo cheppu"
+            ],
+            "responses":["day"
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["Who is","about","What is","tell me about","wikipedia"
+            ],
+            "responses":["wikipedia"
+            ]
+        },
+        {
+            "tag":"google",
+            "patterns":["google","about","search","google search"
+            ],
+            "responses":["google"
+            ]
+        },
+        {
+            "tag":"youtube",
+            "patterns":["youtube search","video search","youtube","yt"
+            ],
+            "responses":["youtube"
+            ]
+        },
+        {
+            "tag":"website",
+            "patterns":["search website","website","webpage"
+            ],
+            "responses":["website"
+            ]
+
+        } 
+      ]
+
+}
