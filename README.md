@@ -59,4 +59,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - PyTorch for the deep learning framework.
-- [YourName](https://github.com/RajeshKalidandi) for the development and maintenance of Maya.
+- [RajeshKalidandi](https://github.com/RajeshKalidandi) for the development and maintenance of Maya.
